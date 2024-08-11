@@ -1,6 +1,8 @@
 print('4th program')
-print(type('123.456'))
+name= '123.456'
+print(name[4])
 print(float("123.456"))
 print (123.456*10)
-print(int(123.456%10))
+
+
 
